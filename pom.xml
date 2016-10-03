@@ -10,6 +10,7 @@
     <groupId>com.ebiznext</groupId>
     <artifactId>formationgit</artifactId>
     <version>1.0-SNAPSHOT</version>
+	<Test></Test>
 
 
 </project>
